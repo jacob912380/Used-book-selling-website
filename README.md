@@ -27,10 +27,10 @@ output-xx.png fils is the website look like
 
 Home page:
 ![](output-main%20page.PNG)
-
+############################################################################################<br>
 Sign up page:
 ![](output-sign-up.PNG)
-
+############################################################################################<br>
 Login page:
 ![](output-login.PNG)
 
