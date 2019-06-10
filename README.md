@@ -24,3 +24,5 @@ PHPmailer require your email address and password for a agent email.<br>
 
 --------------------------------------------------------------------------------------------
 output-xx.png fils is the website look like
+
+![](output-buying page.PNG)
