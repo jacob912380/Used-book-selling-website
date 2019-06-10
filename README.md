@@ -31,6 +31,26 @@ Home page:
 Sign up page:
 ![](output-sign-up.PNG)
 
+Login page:
+![](output-login.PNG)
+
 Buying page:
 ![](output-buying%20page.PNG)
+
+Search page:
+![](output-search-bar.PNG)
+
+Shopping cart page:
+![](output-cart-view.PNG)
+
+Order history page:
+![](output-order-history-view.PNG)
+
+Selling page:
+![](output-selling-page.PNG)
+
+Selling order review:
+![](output-selling%20view.PNG)
+
+
 
