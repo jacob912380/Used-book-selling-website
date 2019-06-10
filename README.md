@@ -25,31 +25,31 @@ PHPmailer require your email address and password for a agent email.<br>
 --------------------------------------------------------------------------------------------
 output-xx.png fils is the website look like
 
-<h2>Home page:</h2>
+Home page:
 ![](output-main%20page.PNG)
 
-<h2>Sign up page:</h2>
+Sign up page:
 ![](output-sign-up.PNG)
 
-<h2>Login page:</h2>
+Login page:
 ![](output-login.PNG)
 
-<h2>Buying page:</h2>
+Buying page:
 ![](output-buying%20page.PNG)
 
-<h2>Search page:</h2>
+Search page:
 ![](output-search-bar.PNG)
 
-<h2>Shopping cart page:</h2>
+Shopping cart page:
 ![](output-cart-view.PNG)
 
-<h2>Order history page:</h2>
+Order history page:
 ![](output-order-history-view.PNG)
 
-<h2>Selling page:</h2>
+Selling page:
 ![](output-selling-page.PNG)
 
-<h2>Selling order review:</h2>
+Selling order review:
 ![](output-selling%20view.PNG)
 
 
